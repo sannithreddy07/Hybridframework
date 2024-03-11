@@ -1,0 +1,5 @@
+2024-03-11 16:23:27,996 INFO  [banking] url opened 
+2024-03-11 16:23:28,144 INFO  [banking] entered username 
+2024-03-11 16:23:28,229 INFO  [banking] entered password 
+2024-03-11 16:23:30,692 INFO  [banking] clicked on login btn 
+2024-03-11 16:23:30,704 INFO  [banking] title matched login success 
