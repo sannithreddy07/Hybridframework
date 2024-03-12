@@ -1,0 +1,10 @@
+banking\pages\AddNewCustomer.class
+banking\testcases\TC_LoginTest_DP_001.class
+banking\utilities\Listnersclass.class
+banking\testcases\BaseClass.class
+banking\pages\Loginpage.class
+banking\utilities\ReadConfig.class
+banking\testcases\TC_AddNewCust_002.class
+banking\utilities\XLUtilityfile.class
+banking\pages\EditCustomer.class
+banking\testcases\TC_LoginTest_001.class

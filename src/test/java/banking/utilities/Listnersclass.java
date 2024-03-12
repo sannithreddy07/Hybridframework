@@ -1,9 +1,10 @@
 package banking.utilities;
 import java.io.File;
 import java.io.IOException;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 
-import org.openqa.selenium.Capabilities;
-import org.openqa.selenium.remote.RemoteWebDriver;
+
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
@@ -22,17 +23,20 @@ public class Listnersclass extends BaseClass implements ITestListener{
 	
 	public ExtentReports extent;
 	public ExtentSparkReporter spark;
-	public ExtentTest test;
+	ExtentTest test;
 	BaseClass bc=new BaseClass();
-	public Capabilities capab;
+	
+	String report;
 	
 
 	
 	@Override
 	public void onStart(ITestContext testContext) {
 		
-		
-	File filename=new File(System.getProperty("user.dir")+"\\extentreports\\"+"report.html");
+		LocalDateTime myDateObj1 = LocalDateTime.now();
+	    DateTimeFormatter myFormatObj1 = DateTimeFormatter.ofPattern("dd-MM-yyyy HHmmss");	
+	    report=myDateObj1.format(myFormatObj1);
+	File filename=new File(System.getProperty("user.dir")+"\\extentreports\\"+"Test-Report"+report+".html");
 	spark=new ExtentSparkReporter(filename);
 	try {
 		spark.loadXMLConfig("src/test/resources/config-extent-xmlfile.xml");
@@ -46,12 +50,9 @@ public class Listnersclass extends BaseClass implements ITestListener{
 	extent.attachReporter(spark);
 	extent.setSystemInfo("OS", System.getProperty("os.name"));
 	extent.setSystemInfo("Java", System.getProperty("java.version"));
-//	capab=((RemoteWebDriver)driver1).getCapabilities();
-//	extent.setSystemInfo("Browser", capab.getBrowserName());
-//	extent.setSystemInfo("BrowserVersion", capab.getBrowserVersion());
 	
 	
-	
+
 	spark.config().setTheme(Theme.DARK);
 	spark.config().setReportName("Banking_testcases");
 	spark.config().setDocumentTitle("Bankingproject");
@@ -60,24 +61,26 @@ public class Listnersclass extends BaseClass implements ITestListener{
 
 	}
 	
-	@Override
-	public void onTestStart(ITestResult result) {
-		
-		String testname=result.getName();
-		test=extent.createTest(testname);
-		test.assignAuthor("sannith");
-		test.assignDevice("chrome-v.121");
-		test.assignCategory("smoke testing");
-	
-	}
+//	@Override
+//	public void onTestStart(ITestResult result) {
+//		
+//
+//		test=extent.createTest(result.getName());
+//		test.assignAuthor("sannith");
+//		test.assignDevice("chrome-v.121");
+//		test.assignCategory("smoke testing");
+//	
+//	}
 
 
 	@Override
 	public void onTestSuccess(ITestResult result) {
 		
-		String testname=result.getName();
 		
-		test.log(Status.PASS, testname+" test case passed");
+		test=extent.createTest(result.getName());
+		test.assignAuthor("sannith");
+		test.log(Status.PASS, result.getName()+"  passed");
+		
 		//(Media) MarkupHelper.createLabel(testname, ExtentColor.GREEN));
 		
 	}
@@ -86,9 +89,12 @@ public class Listnersclass extends BaseClass implements ITestListener{
 
 	@Override
 	public void onTestFailure(ITestResult result) {
-		String testname=result.getName();
-		test.log(Status.FAIL, testname+" test case failed");
-		// (Media) MarkupHelper.createLabel(testname, ExtentColor.RED));
+		
+		test=extent.createTest(result.getName());
+		test.assignAuthor("sannith");
+		test.log(Status.FAIL, result.getName()+"  failed");
+		
+		
 		
 		String screenshotpaths=bc.capturescreenshot(result.getTestContext().getName()+" "+result.getMethod().getMethodName()+".png");
 		test.log(Status.FAIL, MediaEntityBuilder.createScreenCaptureFromPath(screenshotpaths).build());
@@ -98,9 +104,11 @@ public class Listnersclass extends BaseClass implements ITestListener{
 
 	@Override
 	public void onTestSkipped(ITestResult result) {
-		String testname=result.getName();
-		test.log(Status.SKIP, testname+" test case skipped");
-		//(Media) MarkupHelper.createLabel(testname, ExtentColor.ORANGE));
+		
+		test=extent.createTest(result.getName());
+		test.assignAuthor("sannith");
+		test.log(Status.SKIP, result.getName()+ " skipped");
+		
 	}
 
 

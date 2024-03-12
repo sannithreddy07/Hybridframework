@@ -8,11 +8,13 @@
 	<test name="Logintestcase_001">
 		<parameter name="browsername" value="chrome"></parameter>
 		<classes>
-			<class name="banking.testcases.TC_LoginTest_001"></class>
+			  <class name="banking.testcases.TC_LoginTest_001"></class> 
+			   <class name="banking.testcases.TC_LoginTest_DP_001"></class> 
+			  <!--<class name="banking.testcases.TC_AddNewCust_002"></class> -->
 		</classes>
 	</test>
-	<!-- <test name="Logintestcase_002">
-		
+	<!--  <test name="Logintestcase_002">
+		<parameter name="browsername" value="edge"></parameter>
 		<classes>
 			<class name="banking.testcases.TC_LoginTest_001"></class>
 		</classes>

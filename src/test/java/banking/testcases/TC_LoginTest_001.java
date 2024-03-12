@@ -27,6 +27,7 @@ public class TC_LoginTest_001 extends BaseClass{
 			Assert.assertTrue(false);
 			log.info("title not matched login failed");
 		}
+		log.info("******************************************");
 	}
 	
 

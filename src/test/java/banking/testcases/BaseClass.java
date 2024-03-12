@@ -7,11 +7,13 @@ import java.time.format.DateTimeFormatter;
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.xml.DOMConfigurator;
+
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
+
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Optional;
@@ -30,6 +32,7 @@ public class BaseClass {
 	public static Logger log;
 	static String screenshotSubFolderName;
 	
+
 	@Parameters("browsername")
 	@BeforeClass
 	public void launch(@Optional("chrome") String brow) {
@@ -78,5 +81,7 @@ return destFile.getAbsolutePath();
 
 	
 	}
+	
+	
 
 }

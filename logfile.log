@@ -61,3 +61,283 @@
 2024-03-11 23:17:55,860 INFO  [banking] entered password 
 2024-03-11 23:17:57,603 INFO  [banking] clicked on login btn 
 2024-03-11 23:17:57,625 INFO  [banking] title matched login success 
+2024-03-12 16:48:03,653 INFO  [banking] url opened 
+2024-03-12 16:48:03,880 INFO  [banking] entered username 
+2024-03-12 16:48:04,014 INFO  [banking] entered password 
+2024-03-12 16:48:05,308 INFO  [banking] clicked on login btn 
+2024-03-12 16:48:05,323 INFO  [banking] title matched login success 
+2024-03-12 16:48:05,323 INFO  [banking] ****************************************** 
+2024-03-12 17:20:57,781 INFO  [banking] url opened 
+2024-03-12 17:20:57,965 INFO  [banking] entered username 
+2024-03-12 17:20:58,119 INFO  [banking] entered password 
+2024-03-12 17:21:00,191 INFO  [banking] clicked on login btn 
+2024-03-12 17:21:00,209 INFO  [banking] title matched login success 
+2024-03-12 17:21:00,210 INFO  [banking] ****************************************** 
+2024-03-12 17:23:08,388 INFO  [banking] url opened 
+2024-03-12 17:23:08,598 INFO  [banking] entered username 
+2024-03-12 17:23:08,716 INFO  [banking] entered password 
+2024-03-12 17:23:10,049 INFO  [banking] clicked on login btn 
+2024-03-12 17:23:10,070 INFO  [banking] title matched login success 
+2024-03-12 17:23:10,070 INFO  [banking] ****************************************** 
+2024-03-12 17:37:16,974 INFO  [banking] url opened 
+2024-03-12 17:37:17,167 INFO  [banking] username entered 
+2024-03-12 17:37:17,281 INFO  [banking] password entered 
+2024-03-12 17:37:18,610 INFO  [banking] clicked on login btn 
+2024-03-12 17:37:25,702 INFO  [banking] login succcess 
+2024-03-12 17:37:25,702 INFO  [banking] ****************************************** 
+2024-03-12 17:37:26,835 INFO  [banking] url opened 
+2024-03-12 17:37:26,940 INFO  [banking] username entered 
+2024-03-12 17:37:27,319 INFO  [banking] password entered 
+2024-03-12 17:37:27,703 INFO  [banking] clicked on login btn 
+2024-03-12 17:37:32,577 INFO  [banking] url opened 
+2024-03-12 17:37:32,649 INFO  [banking] username entered 
+2024-03-12 17:37:32,750 INFO  [banking] password entered 
+2024-03-12 17:37:33,417 INFO  [banking] clicked on login btn 
+2024-03-12 17:37:38,043 INFO  [banking] url opened 
+2024-03-12 17:37:38,135 INFO  [banking] username entered 
+2024-03-12 17:37:38,537 INFO  [banking] password entered 
+2024-03-12 17:37:38,953 INFO  [banking] clicked on login btn 
+2024-03-12 17:42:45,055 INFO  [banking] url opened 
+2024-03-12 17:42:45,239 INFO  [banking] username entered 
+2024-03-12 17:42:45,370 INFO  [banking] password entered 
+2024-03-12 17:42:46,474 INFO  [banking] clicked on login btn 
+2024-03-12 17:42:53,197 INFO  [banking] login succcess 
+2024-03-12 17:42:53,198 INFO  [banking] ****************************************** 
+2024-03-12 17:42:54,355 INFO  [banking] url opened 
+2024-03-12 17:42:54,480 INFO  [banking] username entered 
+2024-03-12 17:42:54,764 INFO  [banking] password entered 
+2024-03-12 17:42:55,203 INFO  [banking] clicked on login btn 
+2024-03-12 17:42:59,012 WARN  [banking] invalid credentials 
+2024-03-12 17:42:59,012 INFO  [banking] ****************************************** 
+2024-03-12 17:42:59,633 INFO  [banking] url opened 
+2024-03-12 17:42:59,710 INFO  [banking] username entered 
+2024-03-12 17:42:59,790 INFO  [banking] password entered 
+2024-03-12 17:43:00,376 INFO  [banking] clicked on login btn 
+2024-03-12 17:43:05,007 WARN  [banking] invalid credentials 
+2024-03-12 17:43:05,007 INFO  [banking] ****************************************** 
+2024-03-12 17:43:05,654 INFO  [banking] url opened 
+2024-03-12 17:43:05,751 INFO  [banking] username entered 
+2024-03-12 17:43:06,069 INFO  [banking] password entered 
+2024-03-12 17:43:06,491 INFO  [banking] clicked on login btn 
+2024-03-12 17:43:11,055 WARN  [banking] invalid credentials 
+2024-03-12 17:43:11,056 INFO  [banking] ****************************************** 
+2024-03-12 19:26:52,191 INFO  [banking] ************************************** 
+2024-03-12 19:26:57,823 INFO  [banking] entered url 
+2024-03-12 19:26:58,014 INFO  [banking] entered username 
+2024-03-12 19:26:58,142 INFO  [banking] entered password 
+2024-03-12 19:26:59,397 INFO  [banking] click login 
+2024-03-12 19:27:01,236 INFO  [banking] entered all deatils  
+2024-03-12 19:27:01,663 INFO  [banking] subitted details 
+2024-03-12 19:27:05,834 INFO  [banking] logged out 
+2024-03-12 19:27:05,835 INFO  [banking] ************************************** 
+2024-03-12 19:28:52,453 INFO  [banking] url opened 
+2024-03-12 19:28:52,664 INFO  [banking] entered username 
+2024-03-12 19:28:52,794 INFO  [banking] entered password 
+2024-03-12 19:28:54,121 INFO  [banking] clicked on login btn 
+2024-03-12 19:28:54,135 INFO  [banking] title matched login success 
+2024-03-12 19:28:54,135 INFO  [banking] ****************************************** 
+2024-03-12 19:29:02,185 INFO  [banking] url opened 
+2024-03-12 19:29:02,379 INFO  [banking] username entered 
+2024-03-12 19:29:02,519 INFO  [banking] password entered 
+2024-03-12 19:29:03,783 INFO  [banking] clicked on login btn 
+2024-03-12 19:29:11,212 INFO  [banking] login succcess 
+2024-03-12 19:29:11,212 INFO  [banking] ****************************************** 
+2024-03-12 19:29:11,929 INFO  [banking] url opened 
+2024-03-12 19:29:12,166 INFO  [banking] username entered 
+2024-03-12 19:29:12,255 INFO  [banking] password entered 
+2024-03-12 19:29:12,692 INFO  [banking] clicked on login btn 
+2024-03-12 19:29:17,789 INFO  [banking] url opened 
+2024-03-12 19:29:17,870 INFO  [banking] username entered 
+2024-03-12 19:29:18,082 INFO  [banking] password entered 
+2024-03-12 19:29:18,474 INFO  [banking] clicked on login btn 
+2024-03-12 19:29:23,432 INFO  [banking] url opened 
+2024-03-12 19:29:23,536 INFO  [banking] username entered 
+2024-03-12 19:29:23,901 INFO  [banking] password entered 
+2024-03-12 19:29:24,347 INFO  [banking] clicked on login btn 
+2024-03-12 19:29:30,359 INFO  [banking] ************************************** 
+2024-03-12 19:29:35,084 INFO  [banking] entered url 
+2024-03-12 19:29:35,216 INFO  [banking] entered username 
+2024-03-12 19:29:35,319 INFO  [banking] entered password 
+2024-03-12 19:29:37,222 INFO  [banking] click login 
+2024-03-12 19:29:44,420 INFO  [banking] url opened 
+2024-03-12 19:29:44,611 INFO  [banking] entered username 
+2024-03-12 19:29:44,725 INFO  [banking] entered password 
+2024-03-12 19:29:46,063 INFO  [banking] clicked on login btn 
+2024-03-12 19:29:46,071 INFO  [banking] title matched login success 
+2024-03-12 19:29:46,071 INFO  [banking] ****************************************** 
+2024-03-12 19:59:49,192 INFO  [banking] url opened 
+2024-03-12 19:59:49,365 INFO  [banking] entered username 
+2024-03-12 19:59:49,462 INFO  [banking] entered password 
+2024-03-12 19:59:51,310 INFO  [banking] clicked on login btn 
+2024-03-12 19:59:51,327 INFO  [banking] title matched login success 
+2024-03-12 19:59:51,327 INFO  [banking] ****************************************** 
+2024-03-12 20:00:58,130 INFO  [banking] url opened 
+2024-03-12 20:00:58,280 INFO  [banking] entered username 
+2024-03-12 20:00:58,362 INFO  [banking] entered password 
+2024-03-12 20:00:59,582 INFO  [banking] clicked on login btn 
+2024-03-12 20:00:59,596 INFO  [banking] title matched login success 
+2024-03-12 20:00:59,596 INFO  [banking] ****************************************** 
+2024-03-12 20:01:06,944 INFO  [banking] url opened 
+2024-03-12 20:01:07,056 INFO  [banking] username entered 
+2024-03-12 20:01:07,158 INFO  [banking] password entered 
+2024-03-12 20:01:08,544 INFO  [banking] clicked on login btn 
+2024-03-12 20:01:15,978 INFO  [banking] login succcess 
+2024-03-12 20:01:15,978 INFO  [banking] ****************************************** 
+2024-03-12 20:01:17,387 INFO  [banking] url opened 
+2024-03-12 20:01:17,490 INFO  [banking] username entered 
+2024-03-12 20:01:17,580 INFO  [banking] password entered 
+2024-03-12 20:01:18,179 INFO  [banking] clicked on login btn 
+2024-03-12 20:01:23,451 INFO  [banking] url opened 
+2024-03-12 20:01:23,544 INFO  [banking] username entered 
+2024-03-12 20:01:23,637 INFO  [banking] password entered 
+2024-03-12 20:01:24,298 INFO  [banking] clicked on login btn 
+2024-03-12 20:01:30,571 INFO  [banking] url opened 
+2024-03-12 20:01:30,670 INFO  [banking] username entered 
+2024-03-12 20:01:31,015 INFO  [banking] password entered 
+2024-03-12 20:01:31,919 INFO  [banking] clicked on login btn 
+2024-03-12 20:01:38,022 INFO  [banking] ************************************** 
+2024-03-12 20:01:42,169 INFO  [banking] entered url 
+2024-03-12 20:01:42,274 INFO  [banking] entered username 
+2024-03-12 20:01:42,353 INFO  [banking] entered password 
+2024-03-12 20:01:43,361 INFO  [banking] click login 
+2024-03-12 20:01:45,388 INFO  [banking] entered all deatils  
+2024-03-12 20:01:45,790 INFO  [banking] subitted details 
+2024-03-12 20:01:50,809 INFO  [banking] logged out 
+2024-03-12 20:01:50,809 INFO  [banking] ************************************** 
+2024-03-12 20:01:58,622 INFO  [banking] url opened 
+2024-03-12 20:01:58,767 INFO  [banking] entered username 
+2024-03-12 20:01:58,918 INFO  [banking] entered password 
+2024-03-12 20:02:00,393 INFO  [banking] clicked on login btn 
+2024-03-12 20:02:00,445 INFO  [banking] title matched login success 
+2024-03-12 20:02:00,445 INFO  [banking] ****************************************** 
+2024-03-12 21:11:10,086 INFO  [banking] url opened 
+2024-03-12 21:11:10,296 INFO  [banking] entered username 
+2024-03-12 21:11:10,431 INFO  [banking] entered password 
+2024-03-12 21:11:11,766 INFO  [banking] clicked on login btn 
+2024-03-12 21:11:11,781 INFO  [banking] title matched login success 
+2024-03-12 21:11:11,781 INFO  [banking] ****************************************** 
+2024-03-12 21:11:13,633 INFO  [banking] ************************************** 
+2024-03-12 21:11:16,958 INFO  [banking] entered url 
+2024-03-12 21:11:17,067 INFO  [banking] entered username 
+2024-03-12 21:11:17,169 INFO  [banking] entered password 
+2024-03-12 21:11:18,472 INFO  [banking] click login 
+2024-03-12 21:14:13,288 INFO  [banking] url opened 
+2024-03-12 21:14:13,473 INFO  [banking] entered username 
+2024-03-12 21:14:13,602 INFO  [banking] entered password 
+2024-03-12 21:14:15,779 INFO  [banking] clicked on login btn 
+2024-03-12 21:14:15,796 INFO  [banking] title matched login success 
+2024-03-12 21:14:15,797 INFO  [banking] ****************************************** 
+2024-03-12 21:14:22,500 INFO  [banking] url opened 
+2024-03-12 21:14:22,642 INFO  [banking] username entered 
+2024-03-12 21:14:22,768 INFO  [banking] password entered 
+2024-03-12 21:14:24,282 INFO  [banking] clicked on login btn 
+2024-03-12 21:14:31,282 INFO  [banking] login succcess 
+2024-03-12 21:14:31,283 INFO  [banking] ****************************************** 
+2024-03-12 21:14:32,486 INFO  [banking] url opened 
+2024-03-12 21:14:32,585 INFO  [banking] username entered 
+2024-03-12 21:14:32,666 INFO  [banking] password entered 
+2024-03-12 21:14:33,729 INFO  [banking] clicked on login btn 
+2024-03-12 21:14:37,862 WARN  [banking] invalid credentials 
+2024-03-12 21:14:37,863 INFO  [banking] ****************************************** 
+2024-03-12 21:14:38,842 INFO  [banking] url opened 
+2024-03-12 21:14:38,933 INFO  [banking] username entered 
+2024-03-12 21:14:39,013 INFO  [banking] password entered 
+2024-03-12 21:14:39,574 INFO  [banking] clicked on login btn 
+2024-03-12 21:14:43,992 WARN  [banking] invalid credentials 
+2024-03-12 21:14:43,993 INFO  [banking] ****************************************** 
+2024-03-12 21:14:44,696 INFO  [banking] url opened 
+2024-03-12 21:14:44,864 INFO  [banking] username entered 
+2024-03-12 21:14:45,199 INFO  [banking] password entered 
+2024-03-12 21:14:45,634 INFO  [banking] clicked on login btn 
+2024-03-12 21:14:49,407 WARN  [banking] invalid credentials 
+2024-03-12 21:14:49,407 INFO  [banking] ****************************************** 
+2024-03-12 21:17:03,683 INFO  [banking] url opened 
+2024-03-12 21:17:03,779 INFO  [banking] entered username 
+2024-03-12 21:17:03,839 INFO  [banking] entered password 
+2024-03-12 21:17:05,391 INFO  [banking] clicked on login btn 
+2024-03-12 21:17:05,398 INFO  [banking] title matched login success 
+2024-03-12 21:17:05,398 INFO  [banking] ****************************************** 
+2024-03-12 21:17:12,013 INFO  [banking] url opened 
+2024-03-12 21:17:12,091 INFO  [banking] username entered 
+2024-03-12 21:17:12,158 INFO  [banking] password entered 
+2024-03-12 21:17:13,617 INFO  [banking] clicked on login btn 
+2024-03-12 21:17:20,344 INFO  [banking] login succcess 
+2024-03-12 21:17:20,344 INFO  [banking] ****************************************** 
+2024-03-12 21:17:20,979 INFO  [banking] url opened 
+2024-03-12 21:17:21,032 INFO  [banking] username entered 
+2024-03-12 21:17:21,092 INFO  [banking] password entered 
+2024-03-12 21:17:21,948 INFO  [banking] clicked on login btn 
+2024-03-12 21:17:25,882 WARN  [banking] invalid credentials 
+2024-03-12 21:17:25,883 INFO  [banking] ****************************************** 
+2024-03-12 21:17:27,061 INFO  [banking] url opened 
+2024-03-12 21:17:27,130 INFO  [banking] username entered 
+2024-03-12 21:17:27,192 INFO  [banking] password entered 
+2024-03-12 21:17:27,559 INFO  [banking] clicked on login btn 
+2024-03-12 21:17:31,322 WARN  [banking] invalid credentials 
+2024-03-12 21:17:31,322 INFO  [banking] ****************************************** 
+2024-03-12 21:17:32,806 INFO  [banking] url opened 
+2024-03-12 21:17:32,865 INFO  [banking] username entered 
+2024-03-12 21:17:32,921 INFO  [banking] password entered 
+2024-03-12 21:17:33,276 INFO  [banking] clicked on login btn 
+2024-03-12 21:17:37,216 WARN  [banking] invalid credentials 
+2024-03-12 21:17:37,216 INFO  [banking] ****************************************** 
+2024-03-12 21:55:47,838 INFO  [banking] url opened 
+2024-03-12 21:55:47,949 INFO  [banking] entered username 
+2024-03-12 21:55:48,004 INFO  [banking] entered password 
+2024-03-12 21:55:49,196 INFO  [banking] clicked on login btn 
+2024-03-12 21:55:49,204 INFO  [banking] title matched login success 
+2024-03-12 21:55:49,204 INFO  [banking] ****************************************** 
+2024-03-12 21:55:55,098 INFO  [banking] url opened 
+2024-03-12 21:55:55,182 INFO  [banking] username entered 
+2024-03-12 21:55:55,270 INFO  [banking] password entered 
+2024-03-12 21:55:57,049 INFO  [banking] clicked on login btn 
+2024-03-12 21:56:03,754 INFO  [banking] login succcess 
+2024-03-12 21:56:03,755 INFO  [banking] ****************************************** 
+2024-03-12 21:56:04,401 INFO  [banking] url opened 
+2024-03-12 21:56:04,499 INFO  [banking] username entered 
+2024-03-12 21:56:04,565 INFO  [banking] password entered 
+2024-03-12 21:56:04,963 INFO  [banking] clicked on login btn 
+2024-03-12 21:56:09,031 WARN  [banking] invalid credentials 
+2024-03-12 21:56:09,032 INFO  [banking] ****************************************** 
+2024-03-12 21:56:09,691 INFO  [banking] url opened 
+2024-03-12 21:56:09,851 INFO  [banking] username entered 
+2024-03-12 21:56:10,109 INFO  [banking] password entered 
+2024-03-12 21:56:11,036 INFO  [banking] clicked on login btn 
+2024-03-12 21:56:15,133 WARN  [banking] invalid credentials 
+2024-03-12 21:56:15,133 INFO  [banking] ****************************************** 
+2024-03-12 21:56:16,227 INFO  [banking] url opened 
+2024-03-12 21:56:16,274 INFO  [banking] username entered 
+2024-03-12 21:56:16,371 INFO  [banking] password entered 
+2024-03-12 21:56:16,928 INFO  [banking] clicked on login btn 
+2024-03-12 21:56:20,881 WARN  [banking] invalid credentials 
+2024-03-12 21:56:20,881 INFO  [banking] ****************************************** 
+2024-03-12 22:08:53,502 INFO  [banking] url opened 
+2024-03-12 22:08:53,612 INFO  [banking] entered username 
+2024-03-12 22:08:53,670 INFO  [banking] entered password 
+2024-03-12 22:08:55,104 INFO  [banking] clicked on login btn 
+2024-03-12 22:08:55,156 INFO  [banking] title matched login success 
+2024-03-12 22:08:55,156 INFO  [banking] ****************************************** 
+2024-03-12 22:09:00,826 INFO  [banking] url opened 
+2024-03-12 22:09:00,912 INFO  [banking] username entered 
+2024-03-12 22:09:00,966 INFO  [banking] password entered 
+2024-03-12 22:09:02,766 INFO  [banking] clicked on login btn 
+2024-03-12 22:09:09,616 INFO  [banking] login succcess 
+2024-03-12 22:09:09,616 INFO  [banking] ****************************************** 
+2024-03-12 22:09:10,270 INFO  [banking] url opened 
+2024-03-12 22:09:10,321 INFO  [banking] username entered 
+2024-03-12 22:09:10,369 INFO  [banking] password entered 
+2024-03-12 22:09:10,891 INFO  [banking] clicked on login btn 
+2024-03-12 22:09:14,913 WARN  [banking] invalid credentials 
+2024-03-12 22:09:14,914 INFO  [banking] ****************************************** 
+2024-03-12 22:09:15,581 INFO  [banking] url opened 
+2024-03-12 22:09:15,647 INFO  [banking] username entered 
+2024-03-12 22:09:15,766 INFO  [banking] password entered 
+2024-03-12 22:09:16,861 INFO  [banking] clicked on login btn 
+2024-03-12 22:09:20,665 WARN  [banking] invalid credentials 
+2024-03-12 22:09:20,665 INFO  [banking] ****************************************** 
+2024-03-12 22:09:21,605 INFO  [banking] url opened 
+2024-03-12 22:09:21,683 INFO  [banking] username entered 
+2024-03-12 22:09:21,752 INFO  [banking] password entered 
+2024-03-12 22:09:22,258 INFO  [banking] clicked on login btn 
+2024-03-12 22:09:25,884 WARN  [banking] invalid credentials 
+2024-03-12 22:09:25,884 INFO  [banking] ****************************************** 
