@@ -341,3 +341,33 @@
 2024-03-12 22:09:22,258 INFO  [banking] clicked on login btn 
 2024-03-12 22:09:25,884 WARN  [banking] invalid credentials 
 2024-03-12 22:09:25,884 INFO  [banking] ****************************************** 
+2024-03-13 09:52:44,249 INFO  [banking] url opened 
+2024-03-13 09:52:44,447 INFO  [banking] entered username 
+2024-03-13 09:52:44,625 INFO  [banking] entered password 
+2024-03-13 09:52:45,862 INFO  [banking] clicked on login btn 
+2024-03-13 09:52:45,895 INFO  [banking] title matched login success 
+2024-03-13 09:52:45,895 INFO  [banking] ****************************************** 
+2024-03-13 09:52:53,039 INFO  [banking] url opened 
+2024-03-13 09:52:53,178 INFO  [banking] username entered 
+2024-03-13 09:52:53,303 INFO  [banking] password entered 
+2024-03-13 09:52:54,299 INFO  [banking] clicked on login btn 
+2024-03-13 09:53:01,813 INFO  [banking] login succcess 
+2024-03-13 09:53:01,813 INFO  [banking] ****************************************** 
+2024-03-13 09:53:02,543 INFO  [banking] url opened 
+2024-03-13 09:53:02,785 INFO  [banking] username entered 
+2024-03-13 09:53:02,901 INFO  [banking] password entered 
+2024-03-13 09:53:03,306 INFO  [banking] clicked on login btn 
+2024-03-13 09:53:07,398 WARN  [banking] invalid credentials 
+2024-03-13 09:53:07,398 INFO  [banking] ****************************************** 
+2024-03-13 09:53:08,559 INFO  [banking] url opened 
+2024-03-13 09:53:08,667 INFO  [banking] username entered 
+2024-03-13 09:53:08,956 INFO  [banking] password entered 
+2024-03-13 09:53:09,376 INFO  [banking] clicked on login btn 
+2024-03-13 09:53:13,540 WARN  [banking] invalid credentials 
+2024-03-13 09:53:13,540 INFO  [banking] ****************************************** 
+2024-03-13 09:53:14,257 INFO  [banking] url opened 
+2024-03-13 09:53:14,536 INFO  [banking] username entered 
+2024-03-13 09:53:14,658 INFO  [banking] password entered 
+2024-03-13 09:53:15,088 INFO  [banking] clicked on login btn 
+2024-03-13 09:53:19,633 WARN  [banking] invalid credentials 
+2024-03-13 09:53:19,633 INFO  [banking] ****************************************** 

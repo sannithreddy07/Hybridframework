@@ -1,4 +1,4 @@
-# Created at 2024-03-12T22:08:45.061
+# Created at 2024-03-13T09:52:35.236
 Boot Manifest-JAR contains absolute paths in classpath 'D:\Programs\hybridframeworkBank\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 'other' has different root
