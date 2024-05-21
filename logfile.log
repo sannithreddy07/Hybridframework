@@ -371,3 +371,13 @@
 2024-03-13 09:53:15,088 INFO  [banking] clicked on login btn 
 2024-03-13 09:53:19,633 WARN  [banking] invalid credentials 
 2024-03-13 09:53:19,633 INFO  [banking] ****************************************** 
+2024-03-23 09:39:50,676 INFO  [banking] ************************************** 
+2024-03-23 09:39:57,295 INFO  [banking] entered url 
+2024-03-23 09:39:57,683 INFO  [banking] entered username 
+2024-03-23 09:39:57,799 INFO  [banking] entered password 
+2024-03-23 09:40:00,493 INFO  [banking] click login 
+2024-03-23 09:40:33,366 INFO  [banking] ************************************** 
+2024-03-23 09:40:39,010 INFO  [banking] entered url 
+2024-03-23 09:40:39,589 INFO  [banking] entered username 
+2024-03-23 09:40:39,749 INFO  [banking] entered password 
+2024-03-23 09:40:42,373 INFO  [banking] click login 

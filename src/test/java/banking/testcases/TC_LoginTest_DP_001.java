@@ -63,7 +63,7 @@ public Object[][] logindata() throws IOException{
 	Object[][] data=new Object[rows][cols];
 	for(int i=1;i<=rows;i++) {
 		for(int j=0;j<cols;j++) {
-		data[i-1][j]=xl.getCelldata("Sheet1", i, j);
+		data[i-1][j]=xl.getCelldata("Sheet1", i, j); // in excel we have 1,0 to get data but in object array it is data[0][0]--so do -1 in data[][] so that the data can be stored proper array format
 		}
 	}
 	

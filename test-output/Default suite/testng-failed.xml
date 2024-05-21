@@ -6,8 +6,8 @@
       <class name="banking.testcases.TC_AddNewCust_002">
         <methods>
           <include name="launch"/>
-          <include name="addnecust"/>
           <include name="teardown"/>
+          <include name="addnecust"/>
         </methods>
       </class> <!-- banking.testcases.TC_AddNewCust_002 -->
     </classes>

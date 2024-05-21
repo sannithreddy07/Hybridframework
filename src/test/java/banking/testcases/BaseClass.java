@@ -58,6 +58,7 @@ public class BaseClass {
 	public void teardown() {
 		driver1.close();
 	}
+	
 	public  String capturescreenshot(String filename) {
 		if(screenshotSubFolderName==null) {
 	
